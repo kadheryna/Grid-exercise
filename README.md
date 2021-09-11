@@ -12,7 +12,7 @@ Users should be able to:
 
 # Links
 
-- Live Site URL: (...)
+- Live Site URL: (https://kadheryna.github.io/Grid-practice-page/)
 
 # Built with
 
